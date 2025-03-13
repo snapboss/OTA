@@ -1,0 +1,29 @@
+{
+    "response": [
+        {
+            "maintainer": "Luxured",
+            "oem": "",
+            "device": "duchamp",
+            "filename": "AlphaDroid-15.1-20250313-gapps-duchamp-v3.1.zip",
+            "download": "https://sourceforge.net/projects/alphadroidduchamp/files/Android15/gapps/13032025/AlphaDroid-15.1-20250313-gapps-duchamp-v3.1.zip/download",
+            "timestamp": 1741866147,
+            "md5": "935a955649a328a376e0b975c5efbdce",
+            "sha256": "8837d397875012154c973449826ea25919256d395cf7e6dd302057f168836692",
+            "size": 3192233737,
+            "version": "3.1",
+            "buildtype": "Unofficial",
+            "buildvariant": "gapps",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+Device Changelog:
+- Fixed MiuiCamera Crashing on LongExposure 

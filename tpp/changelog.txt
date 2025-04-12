@@ -1,2 +1,8 @@
 Device Changelog:
+
+12042025:
+-Added Turbo Charge
+-Changed namings in Per-App ThermalProfiles to more friendly
+
+07042025
 - Fixed MiuiCamera Crashing on LongExposure 

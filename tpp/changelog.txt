@@ -1,5 +1,13 @@
 Device Changelog:
 
+27042025: 
+- Long press on volume QS Tile opens volume panel
+- Tweaked thermals to provide faster charging on higher temperatures
+- Added GameSpace
+- Added AppLock
+- Add support for disabling non-system apps
+- Less delay for bluetooth audio
+
 12042025:
 -Added Turbo Charge
 -Changed namings in Per-App ThermalProfiles to more friendly

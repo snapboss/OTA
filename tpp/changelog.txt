@@ -1,5 +1,11 @@
 Device Changelog:
 
+28042025
+- Lowered charge speed on high temperatures
+- Switched back to prebuilt fingerprint ( Fixes issues of fp white circle
+Prebuilt fingerprint doesnt support ScreenOff Fingerprint which worked for some variants of X6 Pro
+- Synced latest TPP changes
+
 27042025: 
 - Long press on volume QS Tile opens volume panel
 - Tweaked thermals to provide faster charging on higher temperatures

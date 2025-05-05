@@ -1,5 +1,12 @@
 Device Changelog:
 
+05052025
+- Added new Fingerprint implementation ( Screen Off Fingerprint works for indian variants and some on global )
+- Dropped Turbo Charging option ( for now )
+- Fixed autobrightness
+- Added MIUI Color Modes
+- Fixed GPU Crash on Antutu ( 0 gpu score ) and gpu glitches in games
+
 28042025
 - Lowered charge speed on high temperatures
 - Switched back to prebuilt fingerprint ( Fixes issues of fp white circle

@@ -1,5 +1,10 @@
 Device Changelog:
 
+08052025
+- Updated to May Security Patch
+- Added New Game Space
+- Fixed high battery drain cause by dolby c2
+
 05052025
 - Added new Fingerprint implementation ( Screen Off Fingerprint works for indian variants and some on global )
 - Dropped Turbo Charging option ( for now )

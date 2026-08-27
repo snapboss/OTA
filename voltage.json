@@ -1,1 +1,15 @@
-
+{
+  "response": [
+    {
+        "maintainer": "Luxured",
+        "oem": "Xiaomi",
+        "device": "POCO X6 PRO 5G",
+        "filename": "voltage-6.0-duchamp-20260827-0025-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltageos-duchamp/files/voltage6.0/voltage-6.0-duchamp-20260827-0025-UNOFFICIAL.zip/download",
+        "timestamp": 1787789780,
+        "md5": "7b3624d6f78385d019cbecceff6adc41",
+        "size": 2455618908,
+        "version": "6.0"
+    }
+  ]
+}

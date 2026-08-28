@@ -1,3 +1,6 @@
+Hotfix 29.08.2026
+● Dropped new lockscreen UI
+
 Initial A17 Build
 ● Reverted to OS3.0.8.0.WNLMIXM fingerprint due to issues on some devices
 ● Droped MiuiCamera for now due to bugs
